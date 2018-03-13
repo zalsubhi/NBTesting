@@ -135,11 +135,9 @@ public class Find extends javax.swing.JFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
-// her my update .....
-
-        // TODO add your handling code here:
+ // how are you .....
     }//GEN-LAST:event_jButton1ActionPerformed
-    // new
+   
     /**
      * @param args the command line arguments
      */
