@@ -139,7 +139,7 @@ public class Find extends javax.swing.JFrame {
 
         // TODO add your handling code here:
     }//GEN-LAST:event_jButton1ActionPerformed
-    
+    // new
     /**
      * @param args the command line arguments
      */
